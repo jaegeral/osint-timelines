@@ -1,1 +1,10 @@
-
+datetime,timestamp,timestamp_desc,message,source,md5
+2018-11-29T00:00:00+00:00,1543446000000,APT Traces found,360 Threat Intelligence Center found APT attack traces,https://ti.360.net/blog/articles/flash-0day-hacking-team-rat-activities-of-exploiting-latest-flash-0day-vulnerability-and-correlation-analysis-en/,
+2018-11-30T00:00:00+00:00,1543532400000,Vulnerability disclosure,"360 Threat Intelligence Center confirmed Flash 0day vulnerability, then reported the vulnerability to Adobe",https://ti.360.net/blog/articles/flash-0day-hacking-team-rat-activities-of-exploiting-latest-flash-0day-vulnerability-and-correlation-analysis-en/,
+2018-12-03T00:00:00+00:00,1543791600000,Vulnerability disclosure,Adobe confirmed vulnerability,https://ti.360.net/blog/articles/flash-0day-hacking-team-rat-activities-of-exploiting-latest-flash-0day-vulnerability-and-correlation-analysis-en/,
+2018-12-05T00:00:00+00:00,1543964400000,Report published,360 Threat Intelligence Center publish analysis report,https://ti.360.net/blog/articles/flash-0day-hacking-team-rat-activities-of-exploiting-latest-flash-0day-vulnerability-and-correlation-analysis-en/,
+2010-07-23T13:37:13+00:00,1279885033000,File_create_Date_VT,"1CBC626ABBE10A4FAE6ABF0F405C35E2  backup.exe
+ File create date",https://www.virustotal.com/#/file/d123723e577b8e277e43399e6e54d155b782edb332a70a54a92b729daf287626/details,1CBC626ABBE10A4FAE6ABF0F405C35E2
+2010-11-20T23:29:33+00:00,1290292173000,First Seen In The Wild VT,1CBC626ABBE10A4FAE6ABF0F405C35E2 backup.exe,https://www.virustotal.com/#/file/d123723e577b8e277e43399e6e54d155b782edb332a70a54a92b729daf287626/details,1CBC626ABBE10A4FAE6ABF0F405C35E2
+2018-11-30T06:24:45+00:00,1543555485000,First Submission VT,1CBC626ABBE10A4FAE6ABF0F405C35E2 backup.exe,https://www.virustotal.com/#/file/d123723e577b8e277e43399e6e54d155b782edb332a70a54a92b729daf287626/details,1CBC626ABBE10A4FAE6ABF0F405C35E2
+2014-09-14T00:00:00+00:00,1410645600000,Compilation time,Compilation time of 0day Flash file,https://ti.360.net/blog/articles/flash-0day-hacking-team-rat-activities-of-exploiting-latest-flash-0day-vulnerability-and-correlation-analysis-en/,8A64017953D0840323318BC224BAB9C7

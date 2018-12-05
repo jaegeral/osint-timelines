@@ -69,6 +69,7 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 
 | Date   | Title           | Added  | Link  |
 | ------------- |-------------| -----|---|
+| 2018-12-05| Flash 0day + Hacking Team RAT: Activities of Exploiting Latest Flash 0day Vulnerability and Correlation Analysis | yes |[Link](https://ti.360.net/blog/articles/flash-0day-hacking-team-rat-activities-of-exploiting-latest-flash-0day-vulnerability-and-correlation-analysis-en/)
 | 2018-12-03| Analysis of cyberattack on U.S. think tanks, non-profits, public sector by unidentified attackers |yes | [Link](https://cloudblogs.microsoft.com/microsoftsecure/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/)
 | 2018-11-29|Attack_Pakistan_By_Exploiting_InPage |yes |[Link](https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups-english/) |
 | 2018-11-19|Not So Cozy: An Uncomfortable Examination of a Suspected APT29 Phishing Campaign |yes|[Link](https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html)

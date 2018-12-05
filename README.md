@@ -52,6 +52,12 @@ You can add as much optional fields as you want. E.g. attribution if it is attri
 
 It is also recommended to provide a source field which contains the link to the source of the data point.
 
+### Why not format xyz
+
+There are already a good amount of formats out there to cover various aspects of threat intel.
+For timelines in particular, there is no well established standard / format, so csv seems to be the way to go.
+It is usable in Office as well as various other tools to be easily imported / exported.
+
 ## How to contribute
 
 Every contribution is highly welcome. If you come across a OSINT report that is not yet covered, feel free to make it a csv.

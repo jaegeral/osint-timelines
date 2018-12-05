@@ -1,4 +1,4 @@
-datetime,timestamp,timestamp_description,message,source,md5,Attribution,malware_family
+datetime,timestamp,timestamp_desc,message,source,md5,Attribution,malware_family
 2018-10-15T15:35:19+00:00,1539610519000,Registrant Information,pandorasong[.]com registered,https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html,,APT29,
 2018-10-15T17:39:00+00:00,1539617940000,Certificate Transparency,pandorasong[.]com SSL certificate established,https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html,,APT29,
 2018-10-15T18:52:06+00:00,1539622326000,Scan Data,Cobalt Strike server established,https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html,,APT29,Cobalt Strike

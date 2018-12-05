@@ -1,0 +1,12 @@
+datetime,timestamp,timestamp_description,message,source,md5,Attribution,malware_family,IP
+2018-11-14T07:26:00+00:00,1542176760000,Mail delivered according to screenshot,The spear-phishing emails used in this attack resemble file-sharing notifications from OneDrive.,https://cloudblogs.microsoft.com/microsoftsecure/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/,,APT29,,
+2010-11-20T23:29:33+00:00,1290292173000,VT First seen in the wild,9858d5cb2a6614be3c48e33911bf9f7978b441bf file first seen in the wild,https://www.virustotal.com/#/file/b77ff307ea74a3ab41c92036aea4a049b3c2e69b12a857d26910e535544dfb05/details,9858d5cb2a6614be3c48e33911bf9f7978b441bf,APT29,,
+2018-11-14T20:32:27+00:00,1542223947000,VT first submission,9858d5cb2a6614be3c48e33911bf9f7978b441bf file first submission,https://www.virustotal.com/#/file/b77ff307ea74a3ab41c92036aea4a049b3c2e69b12a857d26910e535544dfb05/details,9858d5cb2a6614be3c48e33911bf9f7978b441bf,APT29,,
+2018-10-15T15:35:19+00:00,1539610519000,Domain registered,PANDORASONG(.)COM registered,https://www.virustotal.com/#/domain/pandorasong.com,,APT29,,
+2018-12-05T00:00:00+00:00,1543964400000,VT Passive DNS,https://www.jmj(.)com passive DNS,https://www.virustotal.com/#/domain/www.jmj.com,,APT29,,104.20.162.83
+2018-12-05T00:00:00+00:00,1543964400000,VT Passive DNS,https://www.jmj(.)com passive DNS,https://www.virustotal.com/#/domain/www.jmj.com,,APT29,,104.20.163.83
+2018-11-17T00:00:00+00:00,1542409200000,VT Passive DNS,https://www.jmj(.)com passive DNS,https://www.virustotal.com/#/domain/www.jmj.com,,APT29,,104.25.145.5
+2018-11-17T00:00:00+00:00,1542409200000,VT Passive DNS,https://www.jmj(.)com passive DNS,https://www.virustotal.com/#/domain/www.jmj.com,,APT29,,104.25.144.5
+2014-02-24T00:00:00+00:00,1393196400000,VT Passive DNS,https://www.jmj(.)com passive DNS most likely FP,https://www.virustotal.com/#/domain/www.jmj.com,,,,166.78.198.91
+2018-11-14T11:53:18+00:00,1542192798000,VT first submission,"ds7002.zip
+ cd92f19d3ad4ec50f6d19652af010fe07dca55e1",https://www.virustotal.com/#/file/e2945268c976f8dc33ba9a8d1a804f00cff46aabc01cd3196651322a71863b87/details,cd92f19d3ad4ec50f6d19652af010fe07dca55e1,APT29,,

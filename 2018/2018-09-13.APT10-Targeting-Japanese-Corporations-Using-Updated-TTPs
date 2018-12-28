@@ -1,4 +1,4 @@
-datetime,timestamp,timestamp_description,message,md5,source,attribution
+datetime,timestamp,timestamp_desc,message,md5,source,attribution
 2018-09-13T00:00:00+00:00,1536789600000,OSINT report published,Fireeye published report https://www.fireeye.com/blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html,,https://www.fireeye.com/blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html,APT10
 2010-11-20T23:29:33+00:00,1290292173000,VT First seen in the wild,aaa.doc グテマラ大使講演会案内状.doc Invitation to Lecture by Guatemalan Ambassador,f188936d2c8423cf064d6b8160769f21,https://www.virustotal.com/#/file/3d2b3c9f50ed36bef90139e6dd250f140c373664984b97a97a5a70333387d18d/details,APT10
 2018-07-26T04:12:03+00:00,1532571123000,VT First submission,aaa.doc グテマラ大使講演会案内状.doc Invitation to Lecture by Guatemalan Ambassador,f188936d2c8423cf064d6b8160769f21,https://www.virustotal.com/#/file/3d2b3c9f50ed36bef90139e6dd250f140c373664984b97a97a5a70333387d18d/details,APT10

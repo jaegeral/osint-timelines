@@ -1,4 +1,4 @@
-datetime,timestamp,timestamp_description,message,source,md5,attribution
+datetime,timestamp,timestamp_desc,message,source,md5,attribution
 2018-12-21T00:00:00+00:00,1545346800000,Report was released,Fireeye issued a report OVERRULED: Containing a Potentially Destructive Adversary,,,
 2017-08-15T17:06:59+00:00,1502809619000,Malware timestampt,APT33 – EMPIRE (Used),https://www.fireeye.com/blog/threat-research/2018/12/overruled-containing-a-potentially-destructive-adversary.html,8a99624d224ab3378598b9895660c890,
 2017-09-15T16:49:59+00:00,1505486999000,Malware timestampt,APT33 – PUPYRAT (Compiled),https://www.fireeye.com/blog/threat-research/2018/12/overruled-containing-a-potentially-destructive-adversary.html,4b19bccc25750f49c2c1bb462509f84e,

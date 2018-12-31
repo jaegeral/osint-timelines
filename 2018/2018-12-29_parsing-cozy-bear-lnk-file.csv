@@ -1,0 +1,3 @@
+datetime,timestamp,timestamp_desc,message,source,md5,attribution
+2018-12-29T00:00:00,1546038000000,Report_Published,report was published,http://windowsir.blogspot.com/2018/12/parsing-cozy-bear-lnk-file.html,,APT29
+2016-10-06T17:03:04,1475766184000,LNK_Metadata,ds7002.lnk New Droid ID Time,http://windowsir.blogspot.com/2018/12/parsing-cozy-bear-lnk-file.html,6ed0020b0851fb71d5b0076f4ee95f3c,APT29

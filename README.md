@@ -71,6 +71,7 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 | ------------- |-------------| -----|---|
 | 2018-12-29|Parsing the Cozy Bear LNK File|Yes|[Link](http://windowsir.blogspot.com/2018/12/parsing-cozy-bear-lnk-file.html)
 | 2018-12-21| OVERRULED: Containing a Potentially Destructive Adversary | yes |[Link](https://www.fireeye.com/blog/threat-research/2018/12/overruled-containing-a-potentially-destructive-adversary.html)
+| 2018-12-19| When Best Practice Isn’t Good Enough: Large Campaigns of Phishing Attacks in Middle East and North Africa Target Privacy-Conscious Users | yes |[Link](https://www.amnesty.org/en/latest/research/2018/12/when-best-practice-is-not-good-enough/)
 | 2018-12-05| Flash 0day + Hacking Team RAT: Activities of Exploiting Latest Flash 0day Vulnerability and Correlation Analysis | yes |[Link](https://ti.360.net/blog/articles/flash-0day-hacking-team-rat-activities-of-exploiting-latest-flash-0day-vulnerability-and-correlation-analysis-en/)
 | 2018-12-03| Analysis of cyberattack on U.S. think tanks, non-profits, public sector by unidentified attackers |yes | [Link](https://cloudblogs.microsoft.com/microsoftsecure/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/)
 | 2018-11-29| Attack_Pakistan_By_Exploiting_InPage |yes |[Link](https://ti.360.net/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups-english/) |

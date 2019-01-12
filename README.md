@@ -65,6 +65,11 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 * open an issue to cover an new report
 * provide a csv file for a report
 
+# 2019
+| Date   | Title           | Added  | Link  |
+| ------------- |-------------| -----|---|
+| 2019-01-10|Big Game Hunting with Ryuk: Another Lucrative Targeted Ransomware|Yes|[Link](https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/)
+
 # 2018
 
 | Date   | Title           | Added  | Link  |

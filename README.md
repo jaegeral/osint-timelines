@@ -69,6 +69,9 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 | Date   | Title           | Added  | Link  |
 | ------------- |-------------| -----|---|
 | 2019-01-10|Big Game Hunting with Ryuk: Another Lucrative Targeted Ransomware|Yes|[Link](https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/)
+| 2019-02-22|New BabyShark Malware Targets U.S. National Security Think Tanks
+|Yes|[Link](hhttps://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/)
+
 
 # 2018
 

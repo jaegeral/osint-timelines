@@ -70,8 +70,8 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 | ------------- |-------------| -----|---|
 | 2019-01-10|Big Game Hunting with Ryuk: Another Lucrative Targeted Ransomware|Yes|[Link](https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/)
 | 2019-01-30|The Double Life of SectorA05 Nesting in Agora (Operation Kitty Phishing)|Yes|[Link](https://threatrecon.nshc.net/2019/01/30/operation-kitty-phishing/)
-| 2019-02-22|New BabyShark Malware Targets U.S. National Security Think Tanks|Yes|[Link](hhttps://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/)
-
+| 2019-02-22|New BabyShark Malware Targets U.S. National Security Think Tanks|Yes|[Link](https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/)
+| 2019-02-27|APT27 A Peek into BRONZE UNION’s Toolbox|Yes|[Link](https://www.secureworks.com/research/a-peek-into-bronze-unions-toolbox)
 
 # 2018
 

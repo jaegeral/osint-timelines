@@ -73,6 +73,7 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 | 2019-02-22|New BabyShark Malware Targets U.S. National Security Think Tanks|Yes|[Link](https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/)
 | 2019-02-27|APT27 A Peek into BRONZE UNION’s Toolbox|Yes|[Link](https://www.secureworks.com/research/a-peek-into-bronze-unions-toolbox)
 | 2019-03-29|Exodus: New Android Spyware Made in Italy|Yes|[Link](https://securitywithoutborders.org/blog/2019/03/29/exodus.html)
+| 2019-05-15|Winnti: More than just Windows and Gates|Yes|[Link](https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a)
 
 # 2018
 

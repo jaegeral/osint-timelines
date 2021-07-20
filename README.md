@@ -32,13 +32,13 @@ Every year has a folder containing a csv per OSINT report.
 It was decided to use the mandatory header fields of timesketch to ensure compatibility.
 
 * message
-   * String with an informative message of the event
+  * String with an informative message of the event
 * datetime
-   * ISO8601 format
-   * Ex: 2015-07-24T19:01:01+00:00
+  * ISO8601 format
+  * Ex: 2015-07-24T19:01:01+00:00
 * timestamp_desc
-   * String explaining what type of timestamp it is. E.g file created
-   * Ex: "Time created"
+  * String explaining what type of timestamp it is. E.g file created
+  * Ex: "Time created"
 
 You need to provide the CSV header with the column names as the first line in the file.
 
@@ -65,7 +65,13 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 * open an issue to cover an new report
 * provide a csv file for a report
 
-# 2019
+## 2021
+
+| Date   | Title           | Added  | Link  |
+| ------------- |-------------| -----|---|
+| 2021-07-17|Forensic Methodology Report: How to catch NSO Group’s Pegasus|Yes|[Link](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/)
+
+## 2019
 | Date   | Title           | Added  | Link  |
 | ------------- |-------------| -----|---|
 | 2019-01-10|Big Game Hunting with Ryuk: Another Lucrative Targeted Ransomware|Yes|[Link](https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/)
@@ -75,7 +81,7 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 | 2019-03-29|Exodus: New Android Spyware Made in Italy|Yes|[Link](https://securitywithoutborders.org/blog/2019/03/29/exodus.html)
 | 2019-05-15|Winnti: More than just Windows and Gates|Yes|[Link](https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a)
 
-# 2018
+## 2018
 
 | Date   | Title           | Added  | Link  |
 | ------------- |-------------| -----|---|
@@ -90,15 +96,13 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 | 2018-09-13| APT10 Targeting Japanese Corporations Using Updated TTPs |yes|[Link](https://www.fireeye.com/blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html)
 | 2018-06-19| Olympic Destroyer is still alive|Yes|[Link](https://securelist.com/olympic-destroyer-is-still-alive/86169/)
 
-# 2017
+## 2017
 
 | Date   | Title           | Added  | Link  |
 | ------------- |-------------| -----|---|
 | 2017-04-??| Operation Cloud Hopper APT10 | Yes |[Link](https://www.pwc.co.uk/issues/cyber-security-data-privacy/insights/operation-cloud-hopper.html)
 
-
-
-# Links
+## Links
 
 Some good sources of OSINT reports to be covered:
 

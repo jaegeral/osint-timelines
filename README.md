@@ -8,7 +8,7 @@ an malicious campaign.
 
 Therefore this repository shall give a time context / extract of published reports as CSV files.
 
-There was also a discussion on Twitter: https://twitter.com/alexanderjaeger/status/1070311545874337792
+There was also a discussion on [Twitter](https://twitter.com/alexanderjaeger/status/1070311545874337792)
 
 To showcase the idea thie repository was created.
 
@@ -72,6 +72,7 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 | 2021-07-17|Forensic Methodology Report: How to catch NSO Group’s Pegasus|Yes|[Link](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/)
 
 ## 2019
+
 | Date   | Title           | Added  | Link  |
 | ------------- |-------------| -----|---|
 | 2019-01-10|Big Game Hunting with Ryuk: Another Lucrative Targeted Ransomware|Yes|[Link](https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/)
@@ -106,5 +107,4 @@ Every contribution is highly welcome. If you come across a OSINT report that is 
 
 Some good sources of OSINT reports to be covered:
 
-* https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/
-
+* [github/APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/)
